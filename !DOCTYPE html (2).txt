@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Crypto Nigah</title>
+</head>
+<body>
+  <h1>Welcome to Crypto Nigah</h1>
+
+  <p>Follow Shams Tabraiz:</p>
+  <ul>
+    <li><a href="https://youtube.com/@tabraizshams?si=FLi6cHGQOwnpu2EW" target="_blank">YouTube Channel</a></li>
+    <li><a href="https://t.me/ShamsTabraiz" target="_blank">Telegram Channel</a></li>
+  </ul>
+
+  <!-- AdSense Ad (Example Only - replace with your real ad code when ready) -->
+  <div style="margin-top: 20px;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6969102870005969"
+     crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6969102870005969"
+     data-ad-slot="4913760142"></ins>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</body>
+</html>
